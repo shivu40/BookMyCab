@@ -554,6 +554,6 @@
 
     </script>
 
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCpmTq3yv16-u33jSY7OizescUBVRWCfyE&callback=initMap&libraries=places"
+    <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_KEY&callback=initMap&libraries=places"
         async defer></script>
 </asp:Content>
